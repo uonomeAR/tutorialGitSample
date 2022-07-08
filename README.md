@@ -1,0 +1,2 @@
+# tutorialGitSample
+tutorialGitSample  ← ichiyasaGitSample__cloneからnewRepositor
